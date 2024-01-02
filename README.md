@@ -22,7 +22,7 @@ i  hosting[<project_id>]: finalizing version...
 Error: HTTP Error: 400, Cloud Run service `helloWorld` does not exist in region `us-central1` in this project.
 ```
 
-Notes:
+## Notes:
 
 When checking the Google Cloud console for Cloud Run services, a Cloud Run service with the name of `helloworld` is active.
 
